@@ -57,3 +57,25 @@ header{
     padding-top: 30;
     padding-bottom: 30;
 }
+.ladinho{
+    display: flex;
+}
+.arrumar{
+   margin-top: 2%;
+   margin-left: 2.5%;
+   margin-right: 2.5;
+   height: auto;
+   width: 20%;
+}
+.imagem{
+    max-width: 100%;
+    height: auto;
+}
+#gato{
+    max-width: 140%;
+    height: 60%;
+}
+.tamanho{
+    max-width: 500px;
+    height: 500px;
+}
